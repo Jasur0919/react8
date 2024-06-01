@@ -8,7 +8,7 @@ import { Navigation, Autoplay } from 'swiper/modules';
 
 const Index = () => {
   return (
-    <>
+    
     <section className="loginn">
     <div className="container">
     <Swiper   navigation={true}
@@ -36,7 +36,7 @@ const Index = () => {
      
       </div>
       </section>
-    </>
+    
   )
 }
 
